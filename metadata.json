@@ -1,0 +1,8 @@
+{
+  "name": "廚房安全衛生守則數位學習測驗系統",
+  "description": "餐飲廚房安全衛生守則互動學習平台，包含學生學號登記、互動字卡、動線與管理模擬測驗、真實情境分析、音效回饋及 PDF 學習成績證書匯出功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
